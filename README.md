@@ -6,13 +6,48 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+www.WolfSec.io
 
-Hi there! Welcome to Cloud9 IDE!
+This is the initial phase of an overall commercial webiste which will be 
+split into "n" number of stream projects for "CodeInstitute."
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+First Stream:
+
+                *** User centric frontend design phase ***
+                
+                 ** Syntax constraints; html, and css  **
+                 
+                  * Criteria; .vid, .img, .mp3, etc.. *
+        
+        
+There are two aproaches to the streamOne project:
+
+        1. Pre-defined project for a music band with all the elements already
+            on github.
+            
+        2. Original concept...needs advisor approval to ensure the task will
+            satisfy the grading criteria.
+            
+            
+Second Stream:
+     
+     
+                           /* upcoming */
+                           
+nth Stream:
+     
+     
+                           /* upcoming */
+                           
+                           
+                           
+:
+
+                Thanks for your interest in WolfSec.io, 
+                            Juan N. Romero
+                                (CEO)# firstProject
+
+
 
 Happy coding!
 The Cloud9 IDE team# firstProject
