@@ -1,25 +1,17 @@
-.logo {
-
-    width: 100%;
-    height: 700px;
-
-    padding: 0;
-
+.container-fluid {
+    background-color: #000000;
+    background-image: url(/band-assets/images/monkees.jpg);
 }
 
-.col-2 {
-    width: 30px;
-    height: 50px;
-    background-color: #454545;
+
+
+.col-2:hover {
+    background-color: yellow;
+}
+
+h3 {
+    text-transform: uppercase;
     text-align: center;
-    outline-color: #000000;
-    outline-style: solid;
-    outline-width: thick;
-}
-
-.col-12 {
-    width: 100%;
-    padding: 0;
 }
 
 /*============================Media Queries=========================*/
